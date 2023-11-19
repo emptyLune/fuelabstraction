@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fuelabstraction:abstract_fuel_instance"
+    }
+  },
+  "result": {
+    "item": "fuelabstraction:block_abstract_fuel_instance"
+  }
+}

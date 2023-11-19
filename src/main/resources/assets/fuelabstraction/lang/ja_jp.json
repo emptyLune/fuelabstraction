@@ -1,0 +1,14 @@
+{
+  "itemGroup.fuelabstraction": "Fuel Abstraction",
+  "item.fuelabstraction.abstraction_catalyst": "抽象化触媒",
+  "item.fuelabstraction.tiny_abstract_fuel_instance": "小さい抽象燃料実体",
+  "item.fuelabstraction.abstract_fuel_instance": "抽象燃料実体",
+  "block.fuelabstraction.block_abstract_fuel_instance": "抽象燃料実体ブロック",
+  "block.fuelabstraction.fuel_abstractor": "燃料抽象化装置",
+  "menu.fuelabstraction.fuel_abstractor": "燃料抽象化装置",
+  "tooltip.fuelabstraction.fuel_abstractor.solidification.enabled": "固体燃料化 有効",
+  "tooltip.fuelabstraction.fuel_abstractor.solidification.disabled": "固体燃料化 無効",
+  "tooltip.fuelabstraction.fuel_abstractor.tank": "%.3f 個分",
+  "tooltip.fuelabstraction.fuel_abstractor.tank.empty": "空",
+  "tooltip.fuelabstraction.fuel_abstractor.tank.max": "最大容量 %d 個分"
+}

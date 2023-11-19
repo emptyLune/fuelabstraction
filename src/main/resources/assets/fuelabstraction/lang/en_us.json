@@ -1,0 +1,14 @@
+{
+  "itemGroup.fuelabstraction": "Fuel Abstraction",
+  "item.fuelabstraction.abstraction_catalyst": "Abstraction Catalyst",
+  "item.fuelabstraction.tiny_abstract_fuel_instance": "Tiny Abstract Fuel Instance",
+  "item.fuelabstraction.abstract_fuel_instance": "Abstract Fuel Instance",
+  "block.fuelabstraction.block_abstract_fuel_instance": "Block of Abstract Fuel Instance",
+  "block.fuelabstraction.fuel_abstractor": "Fuel Abstractor",
+  "menu.fuelabstraction.fuel_abstractor": "Fuel Abstractor",
+  "tooltip.fuelabstraction.fuel_abstractor.solidification.enabled": "solidification enabled",
+  "tooltip.fuelabstraction.fuel_abstractor.solidification.disabled": "solidification disabled",
+  "tooltip.fuelabstraction.fuel_abstractor.tank": "%.3f items",
+  "tooltip.fuelabstraction.fuel_abstractor.tank.empty": "empty",
+  "tooltip.fuelabstraction.fuel_abstractor.tank.max": "Max capacity %d items"
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "fuelabstraction:block_abstract_fuel_instance",
+    "fuelabstraction:fuel_abstractor"
+  ]
+}

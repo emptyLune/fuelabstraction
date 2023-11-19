@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C#C",
+    "#B#",
+    "C#C"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal"
+    },
+    "C": {
+      "item": "minecraft:charcoal"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "fuelabstraction:abstraction_catalyst"
+  }
+}

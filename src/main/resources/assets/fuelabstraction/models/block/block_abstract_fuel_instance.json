@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fuelabstraction:block/block_abstract_fuel_instance"
+  }
+}

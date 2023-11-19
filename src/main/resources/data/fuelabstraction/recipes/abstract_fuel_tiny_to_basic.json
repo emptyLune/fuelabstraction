@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    },
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    },
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    },
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    },
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    },
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    },
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    },
+    {
+      "item": "fuelabstraction:tiny_abstract_fuel_instance"
+    }
+  ],
+  "result": {
+    "item": "fuelabstraction:abstract_fuel_instance",
+    "count": 1
+  }
+}

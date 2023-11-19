@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fuelabstraction:block/block_abstract_fuel_instance"
+    }
+  }
+}

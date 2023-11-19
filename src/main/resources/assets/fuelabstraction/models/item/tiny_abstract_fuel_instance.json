@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fuelabstraction:items/tiny_abstract_fuel_instance"
+  }
+}
